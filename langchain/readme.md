@@ -1,14 +1,14 @@
-# AI Personal Projects
+# AI, ML, LLM, Langchain and RAG Projects
 
-A collection of artificial intelligence experiments, models, and learning projects.
+A collection of artificial intelligence, machine learning, llm, langchaing, and rag projects.
 
 ## Overview
 
-This repository contains examples in artificial intelligence, including machine learning models, deep learning implementations, and data science projects.
+This repository contains examples in artificial intelligence, including machine learning models, deep learning implementations,  data science, llm, and rag projects.
 
 ## Features
 
-- Machine learning model implementations
+- Model implementations
 - Data preprocessing utilities
 - Training notebooks and examples
 - Visualization tools
