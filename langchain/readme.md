@@ -4,12 +4,11 @@ A collection of artificial intelligence experiments, models, and learning projec
 
 ## Overview
 
-This repository contains my personal journey and experiments in artificial intelligence, including machine learning models, deep learning implementations, and data science projects[2].
+This repository contains examples in artificial intelligence, including machine learning models, deep learning implementations, and data science projects.
 
 ## Features
 
 - Machine learning model implementations
-- Neural network architectures
 - Data preprocessing utilities
 - Training notebooks and examples
 - Visualization tools
