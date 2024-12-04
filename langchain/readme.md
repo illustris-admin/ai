@@ -41,20 +41,6 @@ pip install -r requirements.txt
 - **/utils**: Helper functions and utilities
 - **/visualizations**: Data visualization scripts[2][3]
 
-## Usage
-
-```python
-from models.neural_net import NeuralNetwork
-
-# Initialize model
-model = NeuralNetwork()
-
-# Train model
-model.train(X_train, y_train)
-
-# Make predictions
-predictions = model.predict(X_test)
-```
 
 ## Contributing
 
