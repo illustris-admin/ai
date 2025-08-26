@@ -101,6 +101,6 @@ All notebooks are provided **as-is** for educational purposes.
 
 ## 🎉 Ready to Begin?
 
-👉 Start with **[Notebook 1: Your First AI in 15 Minutes](langchain-for-beginners/LangChain_for_Beginners_Your_First_AI_in_15_Minutes_Part_1.ipynb)** and run your first local AI model — no credit card, no API key, no cost.
+👉 Start with **[Notebook 1: Your First AI in 15 Minutes](https://github.com/illustris-admin/ai/blob/main/langchain-for-beginners/LangChain_for_Beginners_Your_First_AI_in_15_Minutes_Part_1.ipynb)** and run your first local AI model — no credit card, no API key, no cost.
 
 Let’s build something amazing — **one notebook at a time**. 🚀
