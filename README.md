@@ -1,4 +1,4 @@
-# 📘 LangChain in 15 Minutes: A Free Colab Series  
+# 📘 LangChain
 ### Build Real AI Apps — No API Keys, No Cost, Just Hugging Face & LangChain  
 
 > **Learn LangChain the right way**: hands-on, private, and free. This 6-part Google Colab notebook series teaches you how to build powerful AI applications using **local models from Hugging Face** — no OpenAI API keys required.
@@ -28,27 +28,14 @@ Each notebook includes:
 
 ---
 
-## 📚 The 6-Part Series (Tentative Titles)
-
-| # | Title | What You'll Build |
-|---|------|-------------------|
-| 1 | **Your First AI in 15 Minutes** | Run your first local LLM with LangChain |
-| 2 | **Add Memory to Your AI** | Create a chatbot that remembers the conversation |
-| 3 | **Ask PDFs Questions** | Upload a PDF and ask questions about its content |
-| 4 | **Make AI Search the Web** | Build a search-powered assistant using DuckDuckGo |
-| 5 | **Make AI Use Tools (Agents 101)** | Let your AI decide when to use a calculator or weather tool |
-| 6 | **Build a Personal AI Assistant** | Combine memory, tools, and docs into one smart assistant |
-
----
-
-## 🚀 Why This Series?
+## 🚀 Why Use This Repository?
 
 Most AI tutorials:
 - ❌ Require OpenAI API keys (cost money)
 - ❌ Hide the model behind an API
 - ❌ Don’t teach local, private, or production-ready patterns
 
-This series:
+These Tutorials:
 - ✅ Uses **free, local models** (e.g., TinyLlama, Phi-2)
 - ✅ Runs on **free Google Colab GPU**
 - ✅ Teaches **real LangChain patterns** (memory, agents, RAG)
@@ -98,9 +85,3 @@ Feel free to:
 All notebooks are provided **as-is** for educational purposes.
 
 ---
-
-## 🎉 Ready to Begin?
-
-👉 Start with **[Notebook 1: Your First AI in 15 Minutes](notebooks/01_first_ai.ipynb)** and run your first local AI model — no credit card, no API key, no cost.
-
-Let’s build something amazing — **one notebook at a time**. 🚀
