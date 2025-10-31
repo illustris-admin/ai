@@ -68,7 +68,7 @@ print("✅ Model loaded!")
 """### 🔍 Add Web Search Tool"""
 
 from langchain_community.utilities import DuckDuckGoSearchAPIWrapper
-from langchain.tools import Tool
+from langchain_core.tools import Tool
 
 # Initialize search
 search = DuckDuckGoSearchAPIWrapper()
@@ -103,12 +103,11 @@ q2 = "What is the capital of Japan?"  # Simple fact
 print(f"Q: {q2}")
 print(f"A: {answer_with_search(q2)}")
 
-# Try it
 q3 = "Where will the next soccer cup be held?"
 print(f"Q: {q3}")
-print(f"A: {answer_with_search(q3)}\n")
+print(f"A: {answer_with_search(q3)}")
 
-q4 = "What is an AI Agent?"  # Simple fact
+q4 = "What is an AI Agent?"
 print(f"Q: {q4}")
 print(f"A: {answer_with_search(q4)}")
 
